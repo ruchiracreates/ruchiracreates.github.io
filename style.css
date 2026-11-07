@@ -134,3 +134,11 @@ h1 em,h2 em { font-weight:500; color:var(--sage-deep); }
   .footer { padding-top:25px; padding-bottom:25px; flex-wrap:wrap; }
   .footer p { order:3; width:100%; }
 }
+.hero h1 {
+  font-family: "Playfair Display", Georgia, serif !important;
+  font-size: clamp(5.5rem, 13vw, 11.8rem) !important;
+  font-weight: 700 !important;
+  line-height: .83 !important;
+  letter-spacing: -.085em !important;
+  margin: 65px 0 52px -8px !important;
+}
