@@ -1,0 +1,1 @@
+Place project images in this folder. You can upload JPG, PNG or WebP files.
